@@ -13,7 +13,7 @@ jacobgluska@intertwined.solutions
 
        OS  :  Microsoft Windows
        WM  :  None
-    Shell  :  Bash
+    Shell  :  Powershell
  Terminal  :  Alacritty
       CPU  :  Intel Core i7-10700F
     Alias  :  Untitled
