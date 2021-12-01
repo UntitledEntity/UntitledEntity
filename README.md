@@ -13,18 +13,18 @@
 ```py
 
 
-psauxx@github
+jacobgluska@intertwined.solutions
 ----------------
 
-       OS  :  Arch Linux
-       WM  :  Openbox
+       OS  :  Microsoft Windows
+       WM  :  None
     Shell  :  Bash
  Terminal  :  Alacritty
-      CPU  :  AMD FX(tm)-6300
-    Alias  :  Nano
-     Orgs  :  NeonNetworks
-Languages  :  Python, javascript
-  Discord  :  902015309848903682
+      CPU  :  Intel Core i7-10700F
+    Alias  :  Untitled
+     Orgs  :  Intertwined
+Languages  :  C++, PHP
+  Discord  :  Untitled Person#2622, 871182766119718983
   
 ```
 
