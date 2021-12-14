@@ -1,23 +1,12 @@
+# Hello 👋🏾
 
-<center>
+Hi, I'm Jacob! I'm a software developer and owner of <a href="https://intertwined.solutions/">intertwined</a>
 
-<p align="middle">
-	
+Find me around the web 🌎:
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
-```
-jacobgluska@intertwined.solutions
-----------------
 
-       OS  :  Microsoft Windows
-       WM  :  None
-    Shell  :  Powershell
- Terminal  :  Alacritty
-      CPU  :  Intel Core i7-10700F
-    Alias  :  Untitled
-     Orgs  :  Intertwined
-Languages  :  C++, PHP
-  Discord  :  Untitled Person#2622, 871182766119718983
-  
-```
-
-</p>
+---
+⭐️ From [M0nica](https://github.com/M0nica)
