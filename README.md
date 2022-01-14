@@ -1,4 +1,4 @@
-# Hello 👋🏾
+# Hello 🏾
 
 Hi, I'm Jacob! I'm a software developer and owner of <a href="https://intertwined.solutions/">intertwined</a>
 
