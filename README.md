@@ -1,11 +1,9 @@
-# Hello 
+### Hi there! 👋
 
-Hi, I'm Jacob! I'm a software developer and owner of <a href="https://intertwined.solutions/">intertwined</a>
+I'm Jacob. 
 
-Find me around the web 🌎:
-- Talk to me on <a href="https://discord.gg/cRnHY9vfC6"> discord </a>
-- Find my socials and more about me at <a href="https://jacobgluska.com"> my website </a>
 
----
-⭐️ From [Untitled](https://github.com/UnnamedEntity)
-e
+## Languages
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
