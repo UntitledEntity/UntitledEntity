@@ -7,7 +7,7 @@ I'm Jacob. I'm a sophomore at Edward R. Murrow High School.
 - 👯 I'm looking to collaborate on opensource and group projects.
 
 ## Find me
-[<img align="left" alt="JacobGluska" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://jacobgluska.com" />]
+<a href="https://jacobgluska.com"><i class="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></i></a>
 
 <br /> 
 
