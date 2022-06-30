@@ -15,3 +15,9 @@ I'm Jacob. I'm a sophomore at Edward R. Murrow High School.
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+
+## Tools
+
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20excel)
