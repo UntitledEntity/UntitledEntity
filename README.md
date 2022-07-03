@@ -22,3 +22,7 @@ I'm Jacob. I'm a sophomore at Edward R. Murrow High School.
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20excel)
+
+## Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=untitledentity)]()
