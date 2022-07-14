@@ -3,7 +3,7 @@
 I'm Jacob. I'm a sophomore at Edward R. Murrow High School.
 
 - 💻 I love software development
-- 🌱 I'm currently learning backend cybersecurity and python.
+- 🌱 I'm currently learning backend cybersecurity ~and python~.
 - 👯 I'm looking to collaborate on opensource and group projects.
 
 ## Find me
@@ -17,6 +17,7 @@ I'm Jacob. I'm a sophomore at Edward R. Murrow High School.
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PY](https://img.shields.io/badge/-PYTHON-000000?style=flat&logo=python)
 
 ## Tools
 
