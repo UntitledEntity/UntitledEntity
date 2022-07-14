@@ -3,7 +3,7 @@
 I'm Jacob. I'm a sophomore at Edward R. Murrow High School.
 
 - 💻 I love software development
-- 🌱 I'm currently learning backend cybersecurity ~and python~.
+- 🌱 I'm currently studying backend cybersecurity ~and python~.
 - 👯 I'm looking to collaborate on opensource and group projects.
 
 ## Find me
