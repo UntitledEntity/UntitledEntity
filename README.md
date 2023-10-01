@@ -3,9 +3,8 @@
 I'm Jacob. 
 
 - I'm an OOP developer
-- I'm currently studying backend cybersecurity and python.
-- I'm currently looking for more projects to work on
-- I'm open to accepting commissions for development, but not looking for anything long-term at the moment 
+- I'm currently studying backend cybersecurity and Python.
+- I'm open to accepting commissions for development, but I am not looking for anything long-term at the moment 
 
 ## Find me
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jacobgluska.com/)
@@ -26,6 +25,10 @@ I'm Jacob.
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20excel)
+
+## Projects
+
+- Intertwined is an open-source PHP-based authentification system. See more at [our website](https://intertwined.solutions/) and our [project page](https://github.com/UntitledEntity/intertwined-web).
 
 ## Stats
 
