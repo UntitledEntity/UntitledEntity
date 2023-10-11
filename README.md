@@ -1,34 +1,36 @@
 ### Hi there! 👋
 
-I'm Jacob. 
+I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently developing [Intertwined](https://intertwined.solutions/), a userdata management/authentification buisness. I'm also learning python and rust to expand my portfolio. 
 
-- I'm an OOP developer
-- I'm currently studying backend cybersecurity and Python.
-- I'm open to accepting commissions for development, but I am not looking for anything long-term at the moment 
+## My skills
+
+- Most used programming languages: C++, PHP, Python (Basics), JavaScript (Basics), and I know the basics in JavaScript and Rust.
+- Other technologies: Linux shell/Bash, Apache2, Iptables/UFW, MYSQL
+- Tools: Github, VSCode, Visual Studio, MYSQLI-CLI
+### Tools
+
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20excel)
+
 
 ## Find me
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jacobgluska.com/)
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/invite/Hj85REktRD)
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:3e18amn20@protonmail.com)
 
-<br /> 
+</br>
 
-## Languages
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![PY](https://img.shields.io/badge/-PYTHON-000000?style=flat&logo=python)
-
-## Tools
-
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20excel)
 
 ## Projects
 
 - Intertwined is an open-source PHP-based authentification system. See more at [our website](https://intertwined.solutions/) and our [project page](https://github.com/UntitledEntity/intertwined-web).
+
+- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple php/HTML website page that allows for a simple connection to a MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based off of. 
+ 
+- [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple python-based server-hopping workspace. This allows for penetration testing to be done from multiple servers which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
+
+- [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free open-source cheat software for CSGO, designed to be loaded into discords UI process. This was meant as a POC, and to be used between me and my friends.
 
 ## Stats
 
