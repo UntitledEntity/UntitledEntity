@@ -15,7 +15,6 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently dev
 
 
 ## Find me
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jacobgluska.com/)
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/invite/Hj85REktRD)
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:3e18amn20@protonmail.com)
 
@@ -29,9 +28,14 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently dev
 - [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple php/HTML website page that allows for a simple connection to a MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based off of. 
  
 - [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple python-based server-hopping workspace. This allows for penetration testing to be done from multiple servers which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
-
+ 
 - [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free open-source cheat software for CSGO, designed to be loaded into discords UI process. This was meant as a POC, and to be used between me and my friends.
 
 ## Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=untitledentity)]()
+<p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=untitledentity&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untitledentity&show_icons=true&theme=dracula&layout=donut">
+
+</p>
