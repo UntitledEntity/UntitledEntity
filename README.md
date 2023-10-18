@@ -7,12 +7,6 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently dev
 - Most used programming languages: C++, PHP, Python (Basics), JavaScript (Basics), and I know the basics in JavaScript and Rust.
 - Other technologies: Linux shell/Bash, Apache2, Iptables/UFW, MYSQL
 - Tools: Github, VSCode, Visual Studio, MYSQLI-CLI
-### Tools
-
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20excel)
-
 
 ## Find me
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/invite/Hj85REktRD)
@@ -30,6 +24,8 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently dev
 - [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple python-based server-hopping workspace. This allows for penetration testing to be done from multiple servers which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
  
 - [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free open-source cheat software for CSGO, designed to be loaded into discords UI process. This was meant as a POC, and to be used between me and my friends.
+
+- [Scripty](https://github.com/UntitledEntity/Scripty-Interpreter) is a C++ interpreter for a simple scripting language I created titled scripty
 
 ## Stats
 
