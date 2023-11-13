@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently developing [Intertwined](https://intertwined.solutions/), a user data management/authentification business. I'm also learning Python and Rust to expand my portfolio. 
+I'm Jacob. I'm a backend developer who is very eager to learn. I'm developing [Intertwined](https://intertwined.solutions/), a user data management/authentication business. I'm also learning Python and Rust to expand my portfolio. 
 
 ## My skills
 
-- Most used programming languages: C++, PHP, Python (Basics), JavaScript (Basics), and I know the basics in JavaScript and Rust.
+- Most used programming languages: C++, PHP, Python (Basics), JavaScript (Basics).
 - Other technologies: Linux shell/Bash, Apache2, Iptables/UFW, MYSQL
 - Tools: Github, VSCode, Visual Studio, MYSQLI-CLI
 
