@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently developing [Intertwined](https://intertwined.solutions/), a userdata management/authentification buisness. I'm also learning python and rust to expand my portfolio. 
+I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently developing [Intertwined](https://intertwined.solutions/), a user data management/authentification business. I'm also learning Python and Rust to expand my portfolio. 
 
 ## My skills
 
@@ -19,13 +19,13 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently dev
 
 - Intertwined is an open-source PHP-based authentification system. See more at [our website](https://intertwined.solutions/) and our [project page](https://github.com/UntitledEntity/intertwined-web).
 
-- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple php/HTML website page that allows for a simple connection to a MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based off of. 
+- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple PHP/HTML website page that allows for a simple connection to an MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based off of. 
  
-- [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple python-based server-hopping workspace. This allows for penetration testing to be done from multiple servers which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
+- [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple Python-based server-hopping workspace. This allows for penetration testing from multiple servers, which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
  
-- [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free open-source cheat software for CSGO, designed to be loaded into discords UI process. This was meant as a POC, and to be used between me and my friends.
+- [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free, open-source cheat software for CSGO, designed to be loaded into the discords UI process. This was meant as a POC and to be used between me and my friends.
 
-- [Scripty](https://github.com/UntitledEntity/Scripty-Interpreter) is a C++ interpreter for a simple scripting language I created titled scripty
+- [Scripty](https://github.com/UntitledEntity/Scripty-Interpreter) is a C++ interpreter for a simple scripting language I created titled script
 
 ## Stats
 
