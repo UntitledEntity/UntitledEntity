@@ -19,11 +19,11 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm currently dev
 
 - Intertwined is an open-source PHP-based authentification system. See more at [our website](https://intertwined.solutions/) and our [project page](https://github.com/UntitledEntity/intertwined-web).
 
-- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple PHP/HTML website page that allows for a simple connection to an MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based off of. 
+- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple PHP/HTML website page that allows for a simple connection to an MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based on. 
  
 - [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple Python-based server-hopping workspace. This allows for penetration testing from multiple servers, which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
  
-- [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free, open-source cheat software for CSGO, designed to be loaded into the discords UI process. This was meant as a POC and to be used between me and my friends.
+- [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free, open-source cheat software for CSGO designed to be loaded into the Discord UI process. This was meant as a POC and to be used between me and my friends.
 
 - [Scripty](https://github.com/UntitledEntity/Scripty-Interpreter) is a C++ interpreter for a simple scripting language I created titled script
 
