@@ -22,10 +22,12 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm developing [I
 - [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple PHP/HTML website page that allows for a simple connection to an MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based on. 
  
 - [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple Python-based server-hopping workspace. This allows for penetration testing from multiple servers, which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
+
+- [TCP-Server-Client Framework](https://github.com/UntitledEntity/TCP-Server-Client-FW) is a simple TCP-Server-and-Client framework made in C++ that is designed to easily be integrated into any project which utilizes AES encryption from [OpenSSL's](https://www.openssl.org/) C++ library.
  
 - [Discord-Hook](https://github.com/UntitledEntity/Discord-Hook) is a free, open-source cheat software for CSGO designed to be loaded into the Discord UI process. This was meant as a POC and to be used between me and my friends.
 
-- [Scripty](https://github.com/UntitledEntity/Scripty-Interpreter) is a C++ interpreter for a simple scripting language I created titled script
+- [Scripty](https://github.com/UntitledEntity/Scripty-Interpreter) is a C++ interpreter for a simple scripting language I created titled scripty
 
 ## Stats
 
