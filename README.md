@@ -19,7 +19,7 @@ I'm Jacob. I'm a backend developer who is very eager to learn. I'm developing [I
 
 - Intertwined is an open-source PHP-based authentification system. See more at [our website](https://intertwined.solutions/) and our [project page](https://github.com/UntitledEntity/intertwined-web).
 
-- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple PHP/HTML website page that allows for a simple connection to an MYSQL database, and is what [Intertwined](https://intertwined.solutions) is based on. 
+- [php-mysql-example](https://github.com/UntitledEntity/php-mysql-example) is a simple PHP/HTML website page that allows for a simple connection to an MYSQL database, and is what [Intertwined](https://intertwined.solutions) is written off of. 
  
 - [H3-cnc](https://github.com/UntitledEntity/H3-cnc) is a simple Python-based server-hopping workspace. This allows for penetration testing from multiple servers, which allows for a more anonymous penetration-testing experience, as your commands are executed from multiple sources.
 
